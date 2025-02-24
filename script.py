@@ -46,3 +46,10 @@ a: int = 1  # Declaração de variável tipada
 b: float = 2
 print(a + b)
 print('=' * 30)
+
+# Recebendo dados do usuário
+print('Recebendo dados do usuário')
+nome = input('Digite seu nome: ')
+print('Olá', nome)
+idade: int = int(input('Digite sua idade: '))
+print('Você tem', idade, 'anos')
