@@ -58,3 +58,23 @@ print('Formatação de strings')
 print(f'Olá, {nome}!')
 print(f'Você tem {idade} anos')
 print('=' * 30)
+
+# Estruturas condicionais
+print('Estruturas condicionais')
+print('If else')
+if idade >= 18:
+    print('Você é maior de idade')
+else:
+    print('Você é menor de idade')
+print('=' * 30)
+
+print('If elif else')
+if idade < 12:
+    print('Criança')
+elif idade < 18:
+    print('Adolescente')
+else:
+    print('Adulto')
+print('=' * 30)
+
+
