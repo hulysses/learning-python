@@ -87,3 +87,10 @@ print(1 <= 2)  # Menor ou igual
 print(1 >= 2)  # Maior ou igual
 print('=' * 30)
 
+# Operadores lógicos
+print('Operadores lógicos')
+print(True and True)
+print(True and False)
+print(True or False)
+print(not True)
+print('=' * 30)
