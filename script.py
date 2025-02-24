@@ -50,6 +50,11 @@ print('=' * 30)
 # Recebendo dados do usuário
 print('Recebendo dados do usuário')
 nome = input('Digite seu nome: ')
-print('Olá', nome)
 idade: int = int(input('Digite sua idade: '))
-print('Você tem', idade, 'anos')
+print('=' * 30)
+
+# Formatação de strings
+print('Formatação de strings')
+print(f'Olá, {nome}!')
+print(f'Você tem {idade} anos')
+print('=' * 30)
