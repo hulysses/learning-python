@@ -2,11 +2,6 @@
 print('Hello world!')
 print('=' * 30)
 
-# Recebendo dados do usuario
-print('Recebendo dados do usuario')
-nome = input('Digite seu nome: ')
-idade: int = int(input('Digite sua idade: '))
-print('=' * 30)
 
 
 
