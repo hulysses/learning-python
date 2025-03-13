@@ -23,3 +23,4 @@ Este repositório tem como objetivo armazenar códigos, anotações e aprendizad
 - [Operadores lógicos](https://github.com/hulysses/learning-python/blob/main/introduction/logical_operators.py)
 - [Operadores de comparação](https://github.com/hulysses/learning-python/blob/main/introduction/comparison_operators.py)
 - [Input do usuário](https://github.com/hulysses/learning-python/blob/main/introduction/input_data.py)
+- [Estruturas condicionais](https://github.com/hulysses/learning-python/blob/main/introduction/conditional_structure.py)
