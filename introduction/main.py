@@ -8,11 +8,7 @@ nome = input('Digite seu nome: ')
 idade: int = int(input('Digite sua idade: '))
 print('=' * 30)
 
-# Formatacao de strings
-print('Formatacao de strings')
-print(f'Ola, {nome}!')
-print(f'Você tem {idade} anos')
-print('=' * 30)
+
 
 # Estruturas condicionais
 print('Estruturas condicionais')
