@@ -5,6 +5,8 @@ print('a' + 'b')  # Concatenacao
 print('a' * 3)  # Repeticao
 print(s[1])  # Indexacao
 print(s[1:3])  # Fatiamento
+print(s[2:])
+print(s[::3])
 print("Ol" in s)  # Verifica se a substring esta contida na string
 print("Ol" not in s)  # Verifica se a substring nao esta contida na string
 print(s.upper())  # Upper case
